@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4946e6c6-1c7c-4ce7-81af-57eff5a24ed4</testCaseGuid>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>753dbabc-905f-49dc-a689-f000cda54af6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
